@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArchiSubscription.API/ArchiSubscription.API.csproj" />
+    <Project Path="src/ArchiSubscription.Core/ArchiSubscription.Core.csproj" />
+    <Project Path="src/ArchiSubscription.Infrastructure/ArchiSubscription.Infrastructure.csproj" />
+  </Folder>
+</Solution>
